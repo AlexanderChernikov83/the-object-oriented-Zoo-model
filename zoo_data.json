@@ -1,0 +1,30 @@
+{
+    "zoo_name": "Зооленд",
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "Попугай",
+            "age": 2
+        },
+        {
+            "type": "Mammal",
+            "name": "Тигр",
+            "age": 5
+        },
+        {
+            "type": "Reptile",
+            "name": "Змея",
+            "age": 3
+        }
+    ],
+    "staff": [
+        {
+            "type": "ZooKeeper",
+            "name": "Иван"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "Ольга"
+        }
+    ]
+}
